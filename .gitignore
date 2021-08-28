@@ -83,3 +83,5 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+app/build/
+app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties
