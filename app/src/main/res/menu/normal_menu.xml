@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_link_menu"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_menu_title"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/export_file_menu"
+        android:icon="@drawable/ic_export"
+        android:title="@string/export_menu_title"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/import_file_menu"
+        android:icon="@drawable/ic_import"
+        android:title="@string/import_menu_title"
+        app:showAsAction="ifRoom"/>
+</menu>

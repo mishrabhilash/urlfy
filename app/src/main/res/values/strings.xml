@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Urlfy</string>
+    <string name="title_activity_manage_urls">ManageUrls</string>
+    <string name="hintTitle">Title for the link eg. Profile</string>
+    <string name="hintLink">Link eg. fb://profile</string>
+    <string name="save">Save</string>
+    <string name="link_required_text">URI or link is mandatory</string>
+    <string name="title_required_text">Title field is mandatory</string>
+    <string name="no_app_found_text">No application found to handle this URI</string>
+    <string name="delete_confirm">Do you want to delete the link <b>%s</b></string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="export_file_text">Export</string>
+    <string name="import_file_text">Import</string>
+    <string name="add_menu_title">Add Link</string>
+    <string name="import_menu_title">Import from file</string>
+    <string name="export_menu_title">Export to file</string>
+    <string name="invalid_file_msg">Invalid file! contains no deeplink or file in not in proper order</string>
+</resources>
